@@ -14,7 +14,6 @@ Journal of neurophysiology, 2007, 98, 3780-3790
 
 from __future__ import print_function
 
-import os.path as op
 import numpy as np
 
 
